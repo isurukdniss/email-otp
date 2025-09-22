@@ -1,0 +1,29 @@
+
+label {
+    margin-right: 10px;
+    
+}
+
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.feedback {
+    margin-top: 15px;
+    width: 40%;
+}
+
+.feedback.success {
+background-color: #c6f6d5;
+color: #22543d;
+}
+
+.feedback.error {
+background-color: #fed7d7;
+color: #742a2a;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
